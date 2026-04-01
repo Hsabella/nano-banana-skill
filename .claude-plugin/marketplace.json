@@ -1,0 +1,21 @@
+{
+  "name": "nano-banana-skill",
+  "owner": {
+    "name": "Hsabella",
+    "url": "https://github.com/Hsabella"
+  },
+  "metadata": {
+    "description": "Secure AI image generation skill for Gemini 3.1 Flash/Pro. Works with Claude Code, Codex, and other AI coding assistants.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "nano-banana",
+      "source": "./",
+      "description": "Secure AI image generation with Gemini 3.1 Flash/Pro. No third-party code cloning required.",
+      "version": "1.0.0",
+      "category": "creative-tools",
+      "keywords": ["image-generation", "gemini", "ai", "secure", "claude-code"]
+    }
+  ]
+}
